@@ -1,6 +1,6 @@
 # Hello, I'm Casey 👋
 
-I'm a 3rd year Computational Enginerring student at the University of Texas at Austin with interests in computational modeling and materials science engineering.
+I'm a 3rd year Computational Engineering student at the University of Texas at Austin with interests in computational modeling and materials science engineering.
 
 ---
 
