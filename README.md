@@ -2,20 +2,21 @@
 
 I'm a 3rd year Computational Engineering student at the University of Texas at Austin with interests in computational modeling and materials science engineering.
 
----
+
 
 ## Currently Studying 🔬
 - Computational Materials Science
 - Numerical Methods and High-Performance Computing
 - Computational Fluid Dynamics and materials Physics Simulations
 - Software Engineering and Design
+
 ---
+
 ## You can find me bel🌐w!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/casey-hawthorne-a20603290/)
 [![Behance](https://img.shields.io/badge/Behance-Design%20Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/galaxypsd)
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_URL)
 
----
 
 ## Technical Skills 📚
 
