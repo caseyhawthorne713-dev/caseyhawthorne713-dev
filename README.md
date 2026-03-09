@@ -2,6 +2,7 @@
 
 I'm a 3rd year Computational Engineering student at the University of Texas at Austin with interests in computational modeling and materials science engineering.
 
+*Note - The emojis aren't from AI I just liked having more color*
 
 
 ## Currently Studying 🔬
